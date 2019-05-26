@@ -9,6 +9,7 @@ Auth::routes();
 
 Route::resource('products', 'ProductController');
 
+
 ///*Route::get('/', function () {
 ////	return redirect('/dashboard/v2');
 ////});
